@@ -75,7 +75,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![IMAGE](https://github.com/user-attachments/assets/6d5bfa7c-f39b-4a8e-b7b5-1cd147ac0660)
 
 #### FINGER
-![IMAGE](https://github.com/user-attachments/assets/cda20928-b721-4a54-8c58-26d736f19f84)
+![IMAGE](https://github.com/user-attachments/assets/b1c10328-dd48-4d4a-9d14-439c1dd30f86)
+
 
 #### ASSEMBLED VIEW
 ![IMAGE](https://github.com/user-attachments/assets/b8508497-e5c8-4c4e-b0e4-ada73193a191)
